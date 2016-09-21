@@ -1,6 +1,4 @@
-/* OpenProcessing Tweak of *@*http://www.openprocessing.org/sketch/182310*@* */
-/* !do not delete the line above, required for linking your tweak if you upload again */
-//ISING MODEL - Originally by Hiroki Yoneda - Modified for generative music purposes by Thomas Power - 22/5/16
+Thomas Power - 22/5/16
 
 import themidibus.*; //Import the library
 
