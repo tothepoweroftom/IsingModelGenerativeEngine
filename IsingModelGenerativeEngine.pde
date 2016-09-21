@@ -1,4 +1,4 @@
-Thomas Power - 22/5/16
+//Thomas Power - 22/5/16
 
 import themidibus.*; //Import the library
 
